@@ -1,2 +1,2 @@
 # sample-1
-this is my first sample
+this is my first sample type
